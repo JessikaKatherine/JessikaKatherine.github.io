@@ -1,0 +1,83 @@
+.titulo{
+    color: rgba(0, 38, 255, 0.2);
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.subtitulo{
+    font-size: 48px;
+    font-family: fantasy;
+    color: #072d41;
+}   
+h1{
+    color: #3e0352;
+    margin: 3%;
+    width: 100%;
+    text-align: center;
+}
+h2{
+    color: #000000;
+    padding: 1%;
+
+}
+.divisionTitutlo{
+    background-color: #d6d4d4;;
+    text-align: right;
+    padding: 4px;
+}
+.divLogo{
+    background-color: rgb(2, 9, 65);
+}
+.logo{
+    width: 25%;
+    padding: 16px; 
+}
+.menu{
+    /*float: right;*/
+    text-align: right;
+}
+.menu > li{
+    display: inline-block;
+    height: 20px;
+    vertical-align: middle;
+    margin: 8px;
+    text-align: center;
+}
+.divMenu{
+    background-color: #424242;
+}
+.divPrincipal{
+    text-align: center;
+    border-bottom: 10px solid rgb(7, 3, 77);
+    width: 100%;
+}  
+    .divisionHtml{
+        margin-top: 20px;
+        text-align: center;
+    }
+    .divisionPantalla{
+        margin-top: 20px;
+        text-align: center;
+    }
+    p{
+        font-size: 18px;
+        padding-left: 80px;
+        padding-right: 80px;
+        text-align: justify;
+    }
+    p{
+        color: rgb(0, 0, 0);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .textoPrincipal{
+        display: inline-block;
+        width: 28%;
+        vertical-align: top;
+        font-family: system-ui;
+        font-size: 30px;
+        padding: 10px;
+        text-align: center;
+    }
+    footer{
+        background-color: rgba(3, 2, 67, 0.535);;
+        padding: 20px;
+    }
